@@ -8,7 +8,7 @@
 % vagrant plugin install vagrant-salt
 ```
 
-- Get a base box:
+- Get a base box (from [here](http://www.vagrantbox.es/)) maybe:
 
 ```
 % vagrant box add foobar http://files.vagrantup.com/precise64.box
